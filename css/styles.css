@@ -1,0 +1,44 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.5em;
+  border: gray;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  background-color: gray;
+}
+.icon-bar {
+  color: gray ;
+  border-color: gray;
+  background-color: gray;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  background-color: white;
+}
+
+#nav-list a {
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+}
